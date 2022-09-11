@@ -1,0 +1,27 @@
+@layer base {
+
+    html,
+    input,
+    button {
+        font-family: Quicksand, ui-sans-serif,
+            system-ui,
+            -apple-system,
+            "Segoe UI",
+            Roboto,
+            "Helvetica Neue",
+            Arial sans-serif;
+        font-weight: 500;
+        font-display: optional;
+    }
+
+    .fade-in {
+        -webkit-animation-duration: 7s;
+        animation-duration: 7s;
+        -webkit-animation-timing-function: linear;
+        animation-timing-function: linear;
+        -webkit-animation-name: fadein;
+        animation-name: fadein;
+        -webkit-animation-fill-mode: forwards;
+        animation-fill-mode: forwards;
+    }
+}

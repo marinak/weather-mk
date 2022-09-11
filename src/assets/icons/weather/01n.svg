@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="272"
+   height="267"
+   fill="none"
+   version="1.1"
+   id="svg46"
+   sodipodi:docname="01n.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview48"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.0646327"
+     inkscape:cx="163.9063"
+     inkscape:cy="71.855769"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg46" />
+  <path
+     d="m 223.35331,133.32151 c 0,44.791 -36.31,81.101 -81.101,81.101 -44.789997,0 -81.099997,-36.31 -81.099997,-81.101 0,-44.790003 36.31,-81.100003 81.099997,-81.100003 44.791,0 81.101,36.31 81.101,81.100003 z"
+     fill="url(#b)"
+     id="path2"
+     style="fill:url(#b);filter:url(#a)" />
+  <defs
+     id="defs44">
+    <linearGradient
+       id="b"
+       x1="148.532"
+       y1="40.352"
+       x2="148.532"
+       y2="202.552"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-9.9626866,13.298507)">
+      <stop
+         offset="0"
+         stop-color="#DECFFF"
+         id="stop6" />
+      <stop
+         offset="1"
+         stop-color="#7E2FFF"
+         id="stop8" />
+    </linearGradient>
+    <filter
+       id="a"
+       x=".115"
+       y=".923"
+       width="271.201"
+       height="265.201"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood11" />
+      <feGaussianBlur
+         in="BackgroundImage"
+         stdDeviation="7"
+         id="feGaussianBlur13" />
+      <feComposite
+         in2="SourceAlpha"
+         operator="in"
+         result="effect1_backgroundBlur_2_474"
+         id="feComposite15" />
+      <feColorMatrix
+         in="SourceAlpha"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix17" />
+      <feOffset
+         dx="-21"
+         dy="15"
+         id="feOffset19" />
+      <feGaussianBlur
+         stdDeviation="25"
+         id="feGaussianBlur21" />
+      <feComposite
+         in2="hardAlpha"
+         operator="out"
+         id="feComposite23" />
+      <feColorMatrix
+         values="0 0 0 0 0.113438 0 0 0 0 0.148981 0 0 0 0 0.275 0 0 0 0.25 0"
+         id="feColorMatrix25" />
+      <feBlend
+         in2="effect1_backgroundBlur_2_474"
+         result="effect2_dropShadow_2_474"
+         id="feBlend27" />
+      <feColorMatrix
+         in="SourceAlpha"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix29" />
+      <feOffset
+         id="feOffset31" />
+      <feGaussianBlur
+         stdDeviation="19"
+         id="feGaussianBlur33" />
+      <feComposite
+         in2="hardAlpha"
+         operator="out"
+         id="feComposite35" />
+      <feColorMatrix
+         values="0 0 0 0 0.619608 0 0 0 0 0.423529 0 0 0 0 1 0 0 0 0.4 0"
+         id="feColorMatrix37" />
+      <feBlend
+         in2="effect2_dropShadow_2_474"
+         result="effect3_dropShadow_2_474"
+         id="feBlend39" />
+      <feBlend
+         in="SourceGraphic"
+         in2="effect3_dropShadow_2_474"
+         result="shape"
+         id="feBlend41" />
+    </filter>
+  </defs>
+</svg>

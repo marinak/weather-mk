@@ -1,0 +1,7 @@
+.btn--search {
+    -webkit-mask-image: url('../../../assets/icons/search-icon.svg');
+    mask-image: url('../../../assets/icons/search-icon.svg');
+    mask-repeat: no-repeat;
+    mask-position: center center;
+    @apply bg-gray-400;
+}
